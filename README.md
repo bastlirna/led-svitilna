@@ -1,7 +1,13 @@
-# led-svitilna
-LED svitilna k propagaci na akcich a treningu pajeni.
+# LED svítilna
 
-## Soucastky
+LED svítilna k propagaci na akcích a tréningu pájeni.
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/bastlirna/led-svitilna/master/photo/intro.jpg"><img src="https://raw.githubusercontent.com/bastlirna/led-svitilna/master/photo/intro_small.jpg" alt="LED Svítilna"></a>
+</p>
+
+## Součástky
+
 * SMD Rezistor R1206 100R
 * LED 5MM RED-ORANGE 4200
 * Mikrospínač TD-03XG-T SMD
