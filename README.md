@@ -13,3 +13,8 @@ LED svítilna k propagaci na akcích a tréningu pájeni.
 * Mikrospínač TD-03XG-T SMD
 * Držák baterie do DPS pro CR2032 BC2001
 * Fotocuprextit 200x150x1,5 jednovrstvý (pro 20 ks)
+
+## Dokumenty
+
+* [Návod](doc/led_svitilna_navod.pdf) (pdf)
+* [DPS](pcb/led_svitilna_16pcs.pdf) (pdf)
