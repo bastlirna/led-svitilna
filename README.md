@@ -12,6 +12,7 @@ LED svítilna k propagaci na akcích a tréningu pájeni.
 * LED 5MM RED-ORANGE 4200
 * Mikrospínač TD-03XG-T SMD
 * Držák baterie do DPS pro CR2032 BC2001
+* Baterie CR2032
 * Fotocuprextit 200x150x1,5 jednovrstvý (pro 20 ks)
 
 ## Dokumenty
